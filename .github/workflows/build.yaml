@@ -1,4 +1,4 @@
-name: build marbiobanc image
+name: build waypoint image
 
 on:
   workflow_dispatch:
